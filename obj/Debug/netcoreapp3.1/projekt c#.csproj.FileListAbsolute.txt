@@ -1,0 +1,13 @@
+D:\doksy\projekt c#\bin\Debug\netcoreapp3.1\projekt c#.exe
+D:\doksy\projekt c#\bin\Debug\netcoreapp3.1\projekt c#.deps.json
+D:\doksy\projekt c#\bin\Debug\netcoreapp3.1\projekt c#.runtimeconfig.json
+D:\doksy\projekt c#\bin\Debug\netcoreapp3.1\projekt c#.runtimeconfig.dev.json
+D:\doksy\projekt c#\bin\Debug\netcoreapp3.1\projekt c#.dll
+D:\doksy\projekt c#\bin\Debug\netcoreapp3.1\projekt c#.pdb
+D:\doksy\projekt c#\obj\Debug\netcoreapp3.1\projekt c#.csprojAssemblyReference.cache
+D:\doksy\projekt c#\obj\Debug\netcoreapp3.1\projekt c#.AssemblyInfoInputs.cache
+D:\doksy\projekt c#\obj\Debug\netcoreapp3.1\projekt c#.AssemblyInfo.cs
+D:\doksy\projekt c#\obj\Debug\netcoreapp3.1\projekt c#.csproj.CoreCompileInputs.cache
+D:\doksy\projekt c#\obj\Debug\netcoreapp3.1\projekt c#.dll
+D:\doksy\projekt c#\obj\Debug\netcoreapp3.1\projekt c#.pdb
+D:\doksy\projekt c#\obj\Debug\netcoreapp3.1\projekt c#.genruntimeconfig.cache
